@@ -33,7 +33,11 @@ API implements following endpoints:
 <li>Type the given formule inside to see how the API is working, in the bracket section put any value that you want</li>
   
   
-  curl "localhost:8080/calculateDisselUsageForDistance?distance=[value]&yearOfProduction=[value]&fuelUsagePer100KM=[value]"
+  `curl "localhost:8080/calculateDisselUsageForDistance?distance=[value]&yearOfProduction=[value]&fuelUsagePer100KM=[value]"`
   
-  curl "localhost:8080/probabilityOfUnitInjectorFail?VIN=[value]"
+  `curl "localhost:8080/probabilityOfUnitInjectorFail?VIN=[value]"`
+  
+  `curl "localhost:8080/calculateDisselUsageForDistance?distance=684&yearOfProduction=2007&fuelUsagePer100KM=9"` - EXAMPLE
+  
+  `curl "localhost:8080/probabilityOfUnitInjectorFail?VIN=123dfgdfhfgjf36345"` - EXAMPLE
 </ul>
