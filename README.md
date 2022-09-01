@@ -8,7 +8,8 @@
 ## General info
 <details>
 <summary>Click here to see general information about <b>Project</b>!</summary>
-REST API to calculate the fuel usage and projecting the probability of the unit injector fail
+REST API to calculate the fuel usage and projecting the probability of the unit injector fail.
+API was build with the help of the RUST framework Actix, which makes it run faster and 
 </details>
 
 ## Technologies
@@ -20,9 +21,9 @@ REST API to calculate the fuel usage and projecting the probability of the unit 
 ## Setup
 <ul>
 <li>Download and unzip the the files from this github repository</li>
-<li>Click on the "target" folder </li>
+<li>Open the "target" folder </li>
 <li>Go to the "Debug" folder</li>
-<li>Open the .exe file inside</li>
+<li>RUN the .exe file inside</li>
 <li>Open the command line on your computer</li>
 <li>Change directory using the cd command to the directory where you have downloaded the whole package</li>
 <li>Type the given formule inside to see how the API is working, in the bracket section put any value that you want</li>
