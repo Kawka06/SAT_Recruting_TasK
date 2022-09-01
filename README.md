@@ -28,5 +28,6 @@ REST API to calculate the fuel usage and projecting the probability of the unit 
 <li>Change directory using the cd command to the direcory where you have download the whole package</li>
 <li>Type the given formule inside to see how the API is working, in the bracket section put any value that you want</li>
   curl "localhost:8080/calculateDisselUsageForDistance?distance=[value]&yearOfProduction=[value]&fuelUsagePer100KM=[value]"
+  
   curl "localhost:8080/probabilityOfUnitInjectorFail?VIN=[value]"
 </ul>
