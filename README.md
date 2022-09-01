@@ -19,7 +19,7 @@ REST API to calculate the fuel usage and projecting the probability of the unit 
 
 ## Setup
 <ul>
-<li>Download and unzip the the files from this githun repository</li>
+<li>Download and unzip the the files from this github repository</li>
 <li>Click on the "target" folder </li>
 <li>Go to the "Debug" folder</li>
 <li>Open the .exe file inside</li>
