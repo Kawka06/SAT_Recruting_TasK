@@ -1,0 +1,11 @@
+c:\Users\kawka\SAT_Recruting_Task\target\debug\deps\digest-1b944671690565f8.rmeta: C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\lib.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\ct_variable.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\rt_variable.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\wrapper.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\xof_reader.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\digest.rs
+
+c:\Users\kawka\SAT_Recruting_Task\target\debug\deps\digest-1b944671690565f8.d: C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\lib.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\ct_variable.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\rt_variable.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\wrapper.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\xof_reader.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\digest.rs
+
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\lib.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\ct_variable.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\rt_variable.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\wrapper.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\xof_reader.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\digest.rs:

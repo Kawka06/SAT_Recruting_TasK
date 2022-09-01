@@ -1,0 +1,11 @@
+c:\Users\kawka\SAT_Recruting_Task\target\debug\deps\futures_core-eacb99c5b4fe9e89.rmeta: C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\lib.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\future.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\stream.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\mod.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\poll.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\__internal\mod.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\__internal\atomic_waker.rs
+
+c:\Users\kawka\SAT_Recruting_Task\target\debug\deps\futures_core-eacb99c5b4fe9e89.d: C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\lib.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\future.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\stream.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\mod.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\poll.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\__internal\mod.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\__internal\atomic_waker.rs
+
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\lib.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\future.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\stream.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\mod.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\poll.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\__internal\mod.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.24\src\task\__internal\atomic_waker.rs:

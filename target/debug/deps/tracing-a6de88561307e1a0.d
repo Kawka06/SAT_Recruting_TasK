@@ -1,0 +1,13 @@
+c:\Users\kawka\SAT_Recruting_Task\target\debug\deps\tracing-a6de88561307e1a0.rmeta: C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\lib.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\macros.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\dispatcher.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\field.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\instrument.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\level_filters.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\span.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\stdlib.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\subscriber.rs
+
+c:\Users\kawka\SAT_Recruting_Task\target\debug\deps\tracing-a6de88561307e1a0.d: C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\lib.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\macros.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\dispatcher.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\field.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\instrument.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\level_filters.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\span.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\stdlib.rs C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\subscriber.rs
+
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\lib.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\macros.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\dispatcher.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\field.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\instrument.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\level_filters.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\span.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\stdlib.rs:
+C:\Users\kawka\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.36\src\subscriber.rs:
