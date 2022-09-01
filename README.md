@@ -1,6 +1,6 @@
 # SAT_Recruting_TasK
 
-* [General info])(#general-info)
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
