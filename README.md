@@ -9,7 +9,11 @@
 <details>
 <summary>Click here to see general information about <b>Project</b>!</summary>
 REST API to calculate the fuel usage and projecting the probability of the unit injector fail.
-API was build with the help of the RUST framework Actix, which makes it run faster and 
+API was build with the help of the RUST framework Actix, which makes it run faster and you don't have to care about stringly typed objects since from request to response everything has types.
+API implements following endpoints:
+  GET: /calculateDisselUsageForDistance
+  GET: /probabilityOfUnitInjectorFail
+
 </details>
 
 ## Technologies
