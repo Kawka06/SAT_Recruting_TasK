@@ -29,7 +29,6 @@ API implements following endpoints:
 <li>Go to the "Debug" folder</li>
 <li>RUN the .exe file inside</li>
 <li>Open the command line on your computer</li>
-<li>Change directory using the cd command to the directory where you have downloaded the whole package</li>
 <li>Type the given formule inside to see how the API is working, in the bracket section put any value that you want</li>
   
   
